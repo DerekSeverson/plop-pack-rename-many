@@ -9,7 +9,7 @@ module.exports = function (plop, config) {
 
   plop.setDefaultInclude({ actionTypes: true })
 
-  plop.addActionType('renameMany', renameMany)
+  plop.setActionType('renameMany', renameMany)
 }
 
 async function renameMany (data, config, plop) {
