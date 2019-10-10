@@ -1,6 +1,6 @@
 {
   "name": "plop-pack-rename-many",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A plop helper for renaming multiple files via a glob pattern",
   "main": "index.js",
   "scripts": {},
