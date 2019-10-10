@@ -1,0 +1,26 @@
+{
+  "name": "plop-pack-rename-many",
+  "version": "0.1.0",
+  "description": "A plop helper for renaming multiple files via a glob pattern",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DerekSeverson/plop-pack-rename-many.git"
+  },
+  "keywords": [
+    "plop",
+    "plop-pack",
+    "actionType",
+    "renameMany"
+  ],
+  "author": "Derek Severson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DerekSeverson/plop-pack-rename-many/issues"
+  },
+  "homepage": "https://github.com/DerekSeverson/plop-pack-rename-many#readme",
+  "dependencies": {
+    "globby": "^10.0.1"
+  }
+}
